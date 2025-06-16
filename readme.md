@@ -58,7 +58,7 @@ Add via NuGet:
 
 ```bash
 dotnet add package Plugin.BLE
-
+```
 ## 🛠️ Getting Started
 
 ### 🚀 Firmware Setup (Microcontroller)
@@ -70,7 +70,7 @@ dotnet add package Plugin.BLE
 
 ```bash
 pio run --target upload
-
+```
 ##💡 Future Improvements
 ###🧪 Add sensors for:
 
