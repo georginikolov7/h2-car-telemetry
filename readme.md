@@ -59,6 +59,7 @@ Add via NuGet:
 ```bash
 dotnet add package Plugin.BLE
 ```
+---
 ## 🛠️ Getting Started
 
 ### 🚀 Firmware Setup (Microcontroller)
@@ -72,19 +73,20 @@ dotnet add package Plugin.BLE
 pio run --target upload
 ```
 ##💡 Future Improvements
+
 ###🧪 Add sensors for:
 
--Hydrogen flow measurement
+- Hydrogen flow measurement
 
--Motor/controller temperature
+- Motor/controller temperature
 
--Wheel speed or RPM
+- Wheel speed or RPM
 
 ###📱 Improve the mobile app:
 
--Real-time graphs
+- Real-time graphs
 
--Database
+- Database
 
 ##🙏 Acknowledgments
 Originally developed by Georgi Nikolov as part of the high school hydrogen racing program.
