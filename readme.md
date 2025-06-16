@@ -72,9 +72,9 @@ dotnet add package Plugin.BLE
 ```bash
 pio run --target upload
 ```
-##💡 Future Improvements
+## 💡 Future Improvements
 
-###🧪 Add sensors for:
+### 🧪 Add sensors for:
 
 - Hydrogen flow measurement
 
@@ -82,12 +82,12 @@ pio run --target upload
 
 - Wheel speed or RPM
 
-###📱 Improve the mobile app:
+### 📱 Improve the mobile app:
 
 - Real-time graphs
 
 - Database
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 Originally developed by Georgi Nikolov as part of the high school hydrogen racing program.
 Now handed off to the next generation — good luck and keep innovating!
