@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|c:\\users\\test\\documents\\eectronicprojects\\h2car_batterylevelndicator\\h2carbatteryindicator\\h2carbatteryindicator\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|solutionrelative:h2carbatteryindicator\\viewmodels\\mainpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|c:\\users\\test\\documents\\eectronicprojects\\h2car_batterylevelndicator\\h2carbatteryindicator\\h2carbatteryindicator\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|solutionrelative:h2carbatteryindicator\\views\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|c:\\users\\test\\documents\\eectronicprojects\\h2car_batterylevelndicator\\h2carbatteryindicator\\h2carbatteryindicator\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|solutionrelative:h2carbatteryindicator\\views\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|c:\\users\\test\\documents\\eectronicprojects\\h2car_batterylevelndicator\\h2carbatteryindicator\\h2carbatteryindicator\\services\\ibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|solutionrelative:h2carbatteryindicator\\services\\ibleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|c:\\users\\test\\documents\\eectronicprojects\\h2car_batterylevelndicator\\h2carbatteryindicator\\h2carbatteryindicator\\services\\bleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|solutionrelative:h2carbatteryindicator\\services\\bleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|c:\\users\\test\\documents\\eectronicprojects\\h2car_batterylevelndicator\\h2carbatteryindicator\\h2carbatteryindicator\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|solutionrelative:h2carbatteryindicator\\platforms\\android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|c:\\users\\test\\documents\\eectronicprojects\\h2car_batterylevelndicator\\h2carbatteryindicator\\h2carbatteryindicator\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|solutionrelative:h2carbatteryindicator\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|c:\\users\\test\\documents\\eectronicprojects\\h2car_batterylevelndicator\\h2carbatteryindicator\\h2carbatteryindicator\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52B81F5-48F7-499D-9DF7-447888940909}|H2CarBatteryIndicator\\H2CarBatteryIndicator.csproj|solutionrelative:h2carbatteryindicator\\constants\\appconstants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBleService.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Services\\IBleService.cs",
+              "RelativeDocumentMoniker": "H2CarBatteryIndicator\\Services\\IBleService.cs",
+              "ToolTip": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Services\\IBleService.cs",
+              "RelativeToolTip": "H2CarBatteryIndicator\\Services\\IBleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:35:50.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BleService.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Services\\BleService.cs",
+              "RelativeDocumentMoniker": "H2CarBatteryIndicator\\Services\\BleService.cs",
+              "ToolTip": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Services\\BleService.cs",
+              "RelativeToolTip": "H2CarBatteryIndicator\\Services\\BleService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:35:18.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Platforms\\Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "H2CarBatteryIndicator\\Platforms\\Android\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Platforms\\Android\\MainActivity.cs",
+              "RelativeToolTip": "H2CarBatteryIndicator\\Platforms\\Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:35:12.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainApplication.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Platforms\\Android\\MainApplication.cs",
+              "RelativeDocumentMoniker": "H2CarBatteryIndicator\\Platforms\\Android\\MainApplication.cs",
+              "ToolTip": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Platforms\\Android\\MainApplication.cs",
+              "RelativeToolTip": "H2CarBatteryIndicator\\Platforms\\Android\\MainApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:35:09.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\ViewModels\\MainPageViewModel.cs",
+              "RelativeDocumentMoniker": "H2CarBatteryIndicator\\ViewModels\\MainPageViewModel.cs",
+              "ToolTip": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\ViewModels\\MainPageViewModel.cs",
+              "RelativeToolTip": "H2CarBatteryIndicator\\ViewModels\\MainPageViewModel.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T20:34:10.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppConstants.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Constants\\AppConstants.cs",
+              "RelativeDocumentMoniker": "H2CarBatteryIndicator\\Constants\\AppConstants.cs",
+              "ToolTip": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Constants\\AppConstants.cs",
+              "RelativeToolTip": "H2CarBatteryIndicator\\Constants\\AppConstants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T08:18:45.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Views\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "H2CarBatteryIndicator\\Views\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Views\\MainPage.xaml.cs",
+              "RelativeToolTip": "H2CarBatteryIndicator\\Views\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAnwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:22:09.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Views\\MainPage.xaml",
+              "RelativeDocumentMoniker": "H2CarBatteryIndicator\\Views\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Test\\Documents\\EectronicProjects\\H2Car_BatteryLevelndicator\\H2CarBatteryIndicator\\H2CarBatteryIndicator\\Views\\MainPage.xaml",
+              "RelativeToolTip": "H2CarBatteryIndicator\\Views\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-07T07:21:54.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:viewmodel="clr-namespace:H2CarBatteryIndicator.ViewModels"
+             x:Class="H2CarBatteryIndicator.View.MainPage"
+             x:DataType="viewmodel:MainPageViewModel">
+
+    <ScrollView>
+        <VerticalStackLayout 
+        Padding="20" 
+        Spacing="15"
+        VerticalOptions="Start">
+            <ActivityIndicator IsRunning="{Binding IsConnecting}"/>
+            <Label Text="{Binding ConnectionStatus,StringFormat='Connection: {0}'}"
+               FontSize="Large"
+               HorizontalOptions="Start" />
+            <Button Text="Reconnect Bluetooth"
+                    FontSize="Medium"
+                    HorizontalOptions="Center"
+                    Command= "{Binding ReconnectDeviceCommand}" 
+                    Margin="2"/>
+
+
+            <Label x:Name="ReceivedTimeLabel"
+                Text="{Binding LastReceivedTime, StringFormat='Updated at: {0}'}"
+                FontSize="Medium"
+                HorizontalOptions="Start" />
+
+            <Label x:Name="BatteryPercentageLabel"
+               Text="{Binding BatteryPercentageValue,StringFormat='Battery level: {0}%'}"
+               FontSize="Large"
+               HorizontalOptions="Center" />
+
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
