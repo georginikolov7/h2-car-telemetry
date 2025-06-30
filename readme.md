@@ -32,6 +32,13 @@ This project enables **real-time battery telemetry** for a **hydrogen-powered ra
 - Battery and voltage measuring circuit (see `pcb/`)
 - Bluetooth-capable mobile device (Android)
 
+### Parameters to keep in mind
+Battery:
+- Minimal voltage before cut-off - 6.4V
+- Maximal charge voltage - 8.6V
+---
+!!! Since battery voltage range IS OUTSIDE working range of the seeed XIAO board, a voltage divider circuit is used to reduce the supplied voltage before passing it to analog input on the board !!!
+---
 ### Software
 
 - [PlatformIO](https://platformio.org/) (for microcontroller firmware)
@@ -62,6 +69,9 @@ dotnet add package Plugin.BLE
 ---
 ## 🛠️ Getting Started
 
+### Hardware 
+- Familiarize yourselves with the schematic design and used components
+
 ### 🚀 Firmware Setup (Microcontroller)
 
 1. Install [Visual Studio Code](https://code.visualstudio.com/) with the [PlatformIO extension](https://platformio.org/install).
@@ -72,9 +82,11 @@ dotnet add package Plugin.BLE
 ```bash
 pio run --target upload
 ```
-## 💡 Future Improvements
+## 💡 Future Improvement Ideas
 
 ### 🧪 Add sensors for:
+
+- Measure consumed current(use a ready-made board with low quiescent current. Ideally it should not rely on shunt resistors as such ones consume more power)  
 
 - Hydrogen flow measurement
 
