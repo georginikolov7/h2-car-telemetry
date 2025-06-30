@@ -70,7 +70,7 @@ dotnet add package Plugin.BLE
 ## 🛠️ Getting Started
 
 ### Hardware 
-- Familiarize yourselves with the schematic design and used components
+- Please familiarize yourselves with the schematic design and used components (the power )
 
 ### 🚀 Firmware Setup (Microcontroller)
 
